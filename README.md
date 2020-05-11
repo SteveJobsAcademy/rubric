@@ -1,1 +1,2 @@
 # rubric
+## A simple rubric
